@@ -3,7 +3,8 @@
 
 Citation and Contact
 
-This study includes only a part of the thesis: Development of a linearization based hybrid method using image tones for the surface inspection of metallic parts, Sakarya University,Computer and Information Sciences,2020. If you find our work useful, please cite:
+This study includes only a part of the thesis: Development of a linearization based hybrid method using image tones for the surface inspection of metallic parts, Sakarya University,Computer and Information Sciences,2020. 
+If you find our work useful, please cite:
 
 1-
 @phdthesis{phdthesis,
