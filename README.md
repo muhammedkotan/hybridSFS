@@ -12,6 +12,7 @@ This study includes only a part of the thesis: Development of a linearization ba
   school       = {Sakarya University},
   year         = 2020
 }
+
 2-
 @article{kotan2017surface,
   title={Surface inspection system for industrial components based on shape from shading minimization approach},
