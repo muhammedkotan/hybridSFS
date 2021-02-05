@@ -49,8 +49,6 @@ see: http://vision.seas.harvard.edu/qsfs/
 Image 3 is a defect image from the dataset : NEU surface defect database
 see: http://faculty.neu.edu.cn/yunhyan/NEU_surface_defect_database.html
 
-
-http://faculty.neu.edu.cn/yunhyan/NEU_surface_defect_database.html
 ![inclusion_1](https://user-images.githubusercontent.com/78547566/107049291-fa038c00-67da-11eb-8ebd-ba2b8f58a82f.jpg)
 </details>
 
