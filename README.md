@@ -1,4 +1,4 @@
-# hybridSFS
+# Kotan & Oz Hybrid Shape From Shading
  A hybrid shape-from-shading algorithm based on linearization
 
 # Citation and Contact
