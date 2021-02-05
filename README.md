@@ -1,6 +1,19 @@
 # hybridSFS
  A hybrid shape-from-shading algorithm based on linearization
 
+# A collapsible section with markdown
+<details>
+  <summary>Citation and Contact!</summary>
+  
+  ## Heading
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
+</details>
+
+
+
 Citation and Contact
 
 This study includes only a part of the thesis: Development of a linearization based hybrid method using image tones for the surface inspection of metallic parts, Sakarya University,Computer and Information Sciences,2020. 
