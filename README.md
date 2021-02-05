@@ -5,7 +5,7 @@
 <details>
   <summary>Citation and Contact!</summary>
   
-  ## Heading
+  ## Citation
 This study includes only a part of the thesis: Development of a linearization based hybrid method using image tones for the surface inspection of metallic parts, Sakarya University,Computer and Information Sciences,2020. 
 If you find our work useful, please cite:
 
@@ -30,6 +30,17 @@ If you find our work useful, please cite:
 }
 </details>
 
+# About Images
+<details>
+  <summary>About Images</summary>
+  
+  ## Images
+Image 1 is a classic "tent" image. It can be obtained by the formula below.
+Z(x,y)=min{-2|x|+2α,-|y|+α}
+
+
+
+</details>
 
 
 
