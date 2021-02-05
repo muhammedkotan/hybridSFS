@@ -41,6 +41,7 @@ Z(x,y)=min{-2|x|+2α,-|y|+α}
 
 ![tent](https://user-images.githubusercontent.com/78547566/107049253-ed7f3380-67da-11eb-8ab3-f6dc42716516.png)
 
+
 Resulting Depth map
 ![tent_res_](https://user-images.githubusercontent.com/78547566/107049550-4f3f9d80-67db-11eb-84c3-35042d34f568.PNG)
 
