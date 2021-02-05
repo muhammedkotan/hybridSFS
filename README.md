@@ -40,7 +40,16 @@ Z(x,y)=min{-2|x|+2α,-|y|+α}
 
 ![tent](https://user-images.githubusercontent.com/78547566/107049253-ed7f3380-67da-11eb-8ab3-f6dc42716516.png)
 
+Image 2 is a cat image from the dataset : From Shading to Local Shape 
+see: http://vision.seas.harvard.edu/qsfs/
 
+![CatIm](https://user-images.githubusercontent.com/78547566/107049277-f4a64180-67da-11eb-9ff6-6c3f31299eb1.png)
+
+Image 3 is a defect image from the dataset : NEU surface defect database
+see: http://faculty.neu.edu.cn/yunhyan/NEU_surface_defect_database.html
+
+http://faculty.neu.edu.cn/yunhyan/NEU_surface_defect_database.html
+![inclusion_1](https://user-images.githubusercontent.com/78547566/107049291-fa038c00-67da-11eb-8ebd-ba2b8f58a82f.jpg)
 </details>
 
 
