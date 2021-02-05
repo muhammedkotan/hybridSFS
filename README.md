@@ -38,6 +38,7 @@ If you find our work useful, please cite:
 Image 1 is a classic "tent" image. It can be obtained by the formula below.
 Z(x,y)=min{-2|x|+2α,-|y|+α}
 
+![tent](https://user-images.githubusercontent.com/78547566/107049253-ed7f3380-67da-11eb-8ab3-f6dc42716516.png)
 
 
 </details>
