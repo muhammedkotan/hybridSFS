@@ -10,12 +10,8 @@ This study includes only a part of the thesis: Development of a linearization ba
 If you find our work useful, please cite:
 
 1-
-@phdthesis{phdthesis,
-  author       = {Muhammed KOTAN}, 
-  title        = {Development of a linearization based hybrid method using image tones for the surface inspection of metallic parts},
-  school       = {Sakarya University},
-  year         = 2020
-}
+Int. J. Appl. Math. Comput. Sci., 2021, Vol. 31, No. 3, 501–513
+DOI: 10.34768/amcs-2021-0034ar        
 
 2-
 @article{kotan2017surface,
