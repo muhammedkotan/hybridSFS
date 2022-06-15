@@ -19,7 +19,7 @@ If you find our work useful, please cite :
   year={2021}
 }    
 
-2- (optional)
+2- 
 @article{kotan2017surface,
   title={Surface inspection system for industrial components based on shape from shading minimization approach},
   author={Kotan, Muhammed and {\"O}z, Cemil},
