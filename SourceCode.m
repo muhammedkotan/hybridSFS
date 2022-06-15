@@ -3,9 +3,8 @@
 % 
 % If you find this codes are usefull please cite following studies
 % 
-% [1] Kotan, M.,(2020). Development of a linearization based hybrid method using image tones for the surface inspection of metallic parts, 
-%                       PhD Thesis, Computer and Information Systems Engineering, Sakarya University.
-% 
+% [1] Kotan, M., Öz, C., & Kahraman, A. (2021). A linearization-based hybrid approach for 3D reconstruction of objects in a single image. 
+%        International Journal of Applied Mathematics and Computer Science, 31(3).
 % [2] Kotan, M., & Öz, C. (2017). Surface inspection system for industrial components based on shape from shading minimization approach. 
 %       Optical Engineering, 56(12), 123105.
 %
