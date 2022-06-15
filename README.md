@@ -7,14 +7,19 @@
   
   ## Citation
 This study includes only a part of the thesis: Development of a linearization based hybrid method using image tones for the surface inspection of metallic parts, Sakarya University,Computer and Information Sciences,2020. 
-If you find our work useful, please cite:
+If you find our work useful, please cite :
 
 1-
-Kotan M., Oz C., Kahraman A.,"A linearization-based hybrid approach for 3D reconstruction of objects in a single image"
-Int. J. Appl. Math. Comput. Sci., 2021, Vol. 31, No. 3, 501–513
-DOI: 10.34768/amcs-2021-0034ar        
+@article{kotan2021linearization,
+  title={A linearization-based hybrid approach for 3D reconstruction of objects in a single image},
+  author={Kotan, Muhammed and {\"O}z, Cemil and Kahraman, Abdulgani},
+  journal={International Journal of Applied Mathematics and Computer Science},
+  volume={31},
+  number={3},
+  year={2021}
+}    
 
-2-
+2- (optional)
 @article{kotan2017surface,
   title={Surface inspection system for industrial components based on shape from shading minimization approach},
   author={Kotan, Muhammed and {\"O}z, Cemil},
